@@ -11,8 +11,6 @@ The Airplane Controller is designed to simulate the behavior and physics of an a
 - Realistic flight physics for accurate airplane dynamics and handling.
 - Smooth and responsive controls for intuitive flying.
 - Configurable parameters for throttle, pitch, roll, yaw, and more.
-- Landing gear system with animation and control options.
-- Cockpit camera view for an immersive flight experience.
 - Support for various input methods, including keyboard, gamepad, and joystick controls.
 
 ## Installation
